@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MapViewer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Qt\;CMake Files\Qt\5.14.0\;CMake Files\Qt\5.14.0\msvc2017\;CMake Files\Qt\5.14.0\msvc2017\lib\;CMake Files\Qt\5.14.0\msvc2017\lib\cmake\;CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5\;CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Core\;CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Quick\;CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5QmlModels\;CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\;CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Network\;CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\;CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5LinguistTools\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v all"/>
+					<CompileFile command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MapViewer">
+				<Option output="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/MapViewer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DQT_QML_DEBUG"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_QUICK_LIB"/>
+					<Add option="-DQT_QMLMODELS_LIB"/>
+					<Add option="-DQT_QML_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add directory="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug"/>
+					<Add directory="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer"/>
+					<Add directory="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/MapViewer_autogen/include"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtCore"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/./mkspecs/win32-msvc"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtQuick"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtQmlModels"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtQml"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtNetwork"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtGui"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtANGLE"/>
+					<Add directory="F:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="F:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="F:\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="F:\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="F:\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="F:\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="F:\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v MapViewer"/>
+					<CompileFile command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MapViewer/fast">
+				<Option output="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/MapViewer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DQT_QML_DEBUG"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_QUICK_LIB"/>
+					<Add option="-DQT_QMLMODELS_LIB"/>
+					<Add option="-DQT_QML_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add directory="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug"/>
+					<Add directory="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer"/>
+					<Add directory="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/MapViewer_autogen/include"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtCore"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/./mkspecs/win32-msvc"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtQuick"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtQmlModels"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtQml"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtNetwork"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtGui"/>
+					<Add directory="F:/Qt/5.14.0/msvc2017/include/QtANGLE"/>
+					<Add directory="F:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="F:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="F:\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="F:\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="F:\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="F:\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="F:\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v MapViewer/fast"/>
+					<CompileFile command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v edit_cache"/>
+					<CompileFile command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v rebuild_cache"/>
+					<CompileFile command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MapViewer_autogen">
+				<Option working_dir="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v MapViewer_autogen"/>
+					<CompileFile command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v &quot;$file&quot;"/>
+					<Clean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+					<DistClean command="F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/MapViewer_fa_IR.ts">
+			<Option target="MapViewer"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/MapViewer_fa_IR.ts.rule">
+			<Option target="MapViewer"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/main.cpp">
+			<Option target="MapViewer"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/qml.qrc">
+			<Option target="MapViewer"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/MapViewer_autogen/EWIEGA46WW/qrc_qml.cpp">
+			<Option target="MapViewer"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/MapViewer_autogen/EWIEGA46WW/qrc_qml.cpp.rule">
+			<Option target="MapViewer"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/MapViewer_autogen/mocs_compilation.cpp">
+			<Option target="MapViewer"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/qml.qrc">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Quick/Qt5QuickConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Quick\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Quick\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5QmlModels/Qt5QmlModelsConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5QmlModels\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5QmlModels/Qt5QmlModelsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5QmlModels\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5QmlConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5QmlConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5Qml_QDebugMessageServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5Qml_QLocalClientConnectionFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5Qml_QQmlDebugServerFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5Qml_QQmlDebuggerServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5Qml_QQmlInspectorServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugConnectorFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5Qml_QQmlPreviewServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5Qml_QQmlProfilerServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5Qml_QQuickProfilerAdapterFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Qml/Qt5Qml_QTcpServerConnectionFactory.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5LinguistTools\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5LinguistTools\"/>
+		</Unit>
+		<Unit filename="D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Qt/5.14.0/msvc2017/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.14.0\msvc2017\lib\cmake\Qt5LinguistTools\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

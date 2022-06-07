@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/MapViewer_autogen",
+	"CMAKE_BINARY_DIR" : "D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/MyWork/QtProject/Github Project/MapViewer/MapViewer",
+	"CMAKE_SOURCE_DIR" : "D:/MyWork/QtProject/Github Project/MapViewer/MapViewer",
+	"INCLUDE_DIR" : "D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/MapViewer_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Page1Form.ui.qml",
+		"D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/Page2Form.ui.qml",
+		"D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/HomeForm.ui.qml",
+		"D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/qtquickcontrols2.conf",
+		"D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/main.qml"
+	],
+	"LOCK_FILE" : "D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/CMakeFiles/MapViewer_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "F:/Qt/5.14.0/msvc2017/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/CMakeFiles/MapViewer_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/qml.qrc",
+	"VERBOSITY" : 0
+}

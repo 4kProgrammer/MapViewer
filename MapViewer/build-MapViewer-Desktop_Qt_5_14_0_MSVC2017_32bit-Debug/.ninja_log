@@ -1,0 +1,14 @@
+# ninja log v5
+1	45	0	CMakeFiles/MapViewer_autogen	c28634f021e49877
+1	45	0	MapViewer_autogen/mocs_compilation.cpp	c28634f021e49877
+1	45	0	D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/CMakeFiles/MapViewer_autogen	c28634f021e49877
+1	45	0	D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/MapViewer_autogen/mocs_compilation.cpp	c28634f021e49877
+63	135	676316685	MapViewer_autogen/EWIEGA46WW/qrc_qml.cpp	470b5a50df29abef
+63	135	676316685	D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/MapViewer_autogen/EWIEGA46WW/qrc_qml.cpp	470b5a50df29abef
+60	267	676316662	D:/MyWork/QtProject/Github Project/MapViewer/MapViewer/MapViewer_fa_IR.ts	ef0b01b90b19a9ca
+60	267	676316662	CMakeFiles/MapViewer_fa_IR.ts_lst_file	ef0b01b90b19a9ca
+60	267	676316662	D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/CMakeFiles/MapViewer_fa_IR.ts_lst_file	ef0b01b90b19a9ca
+269	313	676316685	CMakeFiles/MapViewer.dir/MapViewer_autogen/mocs_compilation.cpp.obj	338175c210341beb
+270	379	676316686	CMakeFiles/MapViewer.dir/MapViewer_autogen/EWIEGA46WW/qrc_qml.cpp.obj	db8d2d05a98fc553
+268	1716	676316687	CMakeFiles/MapViewer.dir/main.cpp.obj	644591191bddee26
+1717	2576	676316688	MapViewer.exe	bc7eaa98cb335e9

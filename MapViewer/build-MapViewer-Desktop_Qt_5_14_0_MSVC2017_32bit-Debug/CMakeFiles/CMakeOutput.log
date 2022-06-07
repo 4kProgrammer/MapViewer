@@ -1,0 +1,33 @@
+The system is: Windows - 10.0.18362 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/VC/Tools/MSVC/14.16.27023/bin/HostX86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27043 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.16.27043.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/CMakeFiles/3.23.0-rc4/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/MyWork/QtProject/Github Project/MapViewer/build-MapViewer-Desktop_Qt_5_14_0_MSVC2017_32bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):F:/Program Files (x86)/Microsoft Visual Studio/2017/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_dd7fd && [1/2] Building CXX object CMakeFiles\cmTC_dd7fd.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_dd7fd.exe
+
+
+
